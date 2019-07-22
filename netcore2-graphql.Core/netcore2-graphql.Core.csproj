@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>netcore2_graphql.Core</RootNamespace>
+  </PropertyGroup>
+
+</Project>
