@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29020.237
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netcore2-graphql", "netcore2-graphql\netcore2-graphql.csproj", "{81CD84D8-00D8-4C6E-8802-603A438E23D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "netcore2-graphql", "netcore2-graphql\netcore2-graphql.csproj", "{81CD84D8-00D8-4C6E-8802-603A438E23D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netcore2-graphql.Core", "netcore2-graphql.Core\netcore2-graphql.Core.csproj", "{05E27476-5435-4EE1-AAEB-6827AFADF68C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "netcore2-graphql.Core", "netcore2-graphql.Core\netcore2-graphql.Core.csproj", "{05E27476-5435-4EE1-AAEB-6827AFADF68C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "netcore2-graphql.Data", "netcore2-graphql.Data\netcore2-graphql.Data.csproj", "{4BB6CE58-A63B-4C24-AC68-632212DB1684}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{05E27476-5435-4EE1-AAEB-6827AFADF68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05E27476-5435-4EE1-AAEB-6827AFADF68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05E27476-5435-4EE1-AAEB-6827AFADF68C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BB6CE58-A63B-4C24-AC68-632212DB1684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB6CE58-A63B-4C24-AC68-632212DB1684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB6CE58-A63B-4C24-AC68-632212DB1684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB6CE58-A63B-4C24-AC68-632212DB1684}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
